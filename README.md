@@ -70,7 +70,7 @@ Language: C
 
 Compiler: GCC
 
-IDE/Editor: Visual Studio Code / Code::Blocks
+IDE/Editor: Visual Studio Code 
 
 Data Storage: Plain-text files (txt format)
 
