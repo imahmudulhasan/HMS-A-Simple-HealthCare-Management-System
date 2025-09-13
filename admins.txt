@@ -1,4 +1,3 @@
 001,001,Rayan Anthony Gomes,41,rayangomes@gmail.com,72.00
-002,002,Abdullah Bappi,50,bappimahmud@gmail.com,99.9
-003,003,Mahmudul Tanvir,60,tanvir@gmail.com,50
-
+002,002,Mahmudul Hasan,40,Hasan@gmail.com,70.00
+003,003,Abdullah Bappi,45,abdbappi@gmail.com,75.00
